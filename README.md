@@ -1,6 +1,12 @@
 # Anki Search Workflow
 
-![anki search](.src/anki_search.gif)
+<details>
+  <summary>Show demo</summary>
+  
+![](.src/anki_search.gif)
+
+</details>
+
 
 ## Why
 
@@ -15,3 +21,4 @@ Searching in Anki Desktop breaks for a long time, so I make this helper workflow
 ## See also
 
 - [anki_tools](https://github.com/cdpath/anki_tools)
+
