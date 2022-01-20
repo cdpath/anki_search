@@ -1,5 +1,7 @@
 # Anki Search Workflow
 
+![anki search](.src/anki_search.gif)
+
 ## Why
 
 Searching in Anki Desktop breaks for a long time, so I make this helper workflow as a workaround.
