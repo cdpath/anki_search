@@ -1,24 +1,22 @@
 # Anki Search Workflow
 
-<details>
-  <summary>Show demo</summary>
-  
-![](.src/anki_search.gif)
+![](.src/anki_search.png)
 
-</details>
+## Setup
 
+- `Front Fields`: Specify fields for search results' titles.
+- `Back Fields`: Specify fields for search results' subtitles.
 
-## Why
+## Usage
 
-Searching in Anki Desktop breaks for a long time, so I make this helper workflow as a workaround.
-
+- Use `as` to search notes. Hit `ENTER` to open results in the Anki Browser.
+- Use `at` to list all tags.
 
 ## Dependencies
 
 - [Anki-Connect](https://github.com/FooSoft/anki-connect)
-- [alfred-workflow](https://github.com/deanishe/alfred-workflow)
 
-## See also
+## Additional Anki Utilities
 
 - [anki_tools](https://github.com/cdpath/anki_tools)
 
