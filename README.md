@@ -1,6 +1,6 @@
 # Anki Search Workflow
 
-![](.src/anki_search.png)
+![](img/anki_search.png)
 
 ## Setup
 
