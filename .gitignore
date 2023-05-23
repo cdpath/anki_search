@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# cache
+./src/anki_tags_cache.pkl
+./src/prefs.plist
